@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Prakhar Verma and I'm a Flutter Developer, from Aligarh</h2>
+<h2 align="left">Hi 👋! My name is Prakhar Verma</h2>
 
 ###
 

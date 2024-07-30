@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working as a Software Developer Intern<br>- 🌱 Learning Flutter UI Framework<br>-😄 Pronouns: He/Him<br>-📫 Contact me here: prakhar.verma100@gmal.com</p>
+<p align="left">- 🔭 I’m currently working as a Software Developer Intern<br>- 🌱 Learning Flutter UI Framework<br>-😄 Pronouns: He/Him<br>-📫 Contact me here: prakhar.verma100@gmail.com</p>
 
 ###
 
